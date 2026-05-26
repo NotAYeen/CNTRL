@@ -1,3 +1,3 @@
-aureg = 1
+aureg = 0
 photocrop = 0
 otra_herramienta = 0
